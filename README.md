@@ -15,4 +15,4 @@ The callback has an Input and an Output, which are properties of specific compon
 
 The properties must be passed as strings in the Input, Output properties (here ‘value’ and ‘figure’ instead of value and figure). The variable we used in the update_hist function (which we named feature) takes the value of the input value. Callbacks can have multiple inputs and outputs.
 
-## Expecations 
+## Expectations 
